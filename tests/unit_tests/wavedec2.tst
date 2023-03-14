@@ -26,7 +26,7 @@ if (version(1)<6) then
 sz=stacksize();
 stacksize(1e7);
 end;
-loadmatfile("-mat",get_swt_path()+"tests/unit_tests/Data.mat");
+loadmatfile("-mat",fullfile(get_swt_path(),"tests/unit_tests/Data.mat"));
 clear row_low;
 clear row_hi;
 clear col_low_low;

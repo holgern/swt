@@ -37,8 +37,8 @@ function builder_main()
   if (getscilabmode() ~= "NWNI") then
 	tbx_builder_help(toolbox_dir);
   end;
-  tbx_build_loader(TOOLBOX_NAME, toolbox_dir);
-  tbx_build_cleaner(TOOLBOX_NAME, toolbox_dir);
+  tbx_build_loader(toolbox_dir);
+  tbx_build_cleaner(toolbox_dir);
 
 endfunction 
 // =============================================================================

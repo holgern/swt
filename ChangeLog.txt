@@ -2,6 +2,8 @@ SWT - Scilab Wavelet Toolbox
 Copyright (C) 2011 - 2014 Holger Nahrstaedt
 Copyright (C) 2005-2008 Scilab Wavelet Toolbox Team
 __________________________________________________________________
+0.3.2
+ + Works with Scilab 6.1.x
 0.3.1
  + some bug fixes (Thanks to Pingmin)
 0.3.0

@@ -22,7 +22,7 @@
 
 // dwt1d  Test
 
-loadmatfile("-mat",get_swt_path()+"tests/unit_tests/Data.mat");
+loadmatfile("-mat",fullfile(get_swt_path(),"tests/unit_tests/Data.mat"));
 
 // wavedec
 // haar

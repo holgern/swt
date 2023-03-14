@@ -5,7 +5,7 @@
 
 function swtlib = startModule()
 
-mprintf("Start swt toolbox - (0.3.1)\n");
+mprintf("Start swt toolbox - (0.3.2)\n");
 
 if isdef("swtlib") then
 	warning("Toolbox swt library is already loaded");

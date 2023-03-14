@@ -33,7 +33,7 @@
 //#include <stack-c.h>
 #include "api_scilab.h"
 #include <sciprint.h>
-#include "MALLOC.h"
+//#include "MALLOC.h"
 #include "Scierror.h"
 #include "swtlib.h"
 #include "swt_gwsupport.h"
